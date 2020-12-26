@@ -1,0 +1,9 @@
+lose
+win
+win
+lose
+win
+win
+lose
+lose
+win
